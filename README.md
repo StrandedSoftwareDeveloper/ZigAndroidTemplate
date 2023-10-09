@@ -1,3 +1,6 @@
+# NOTICE OF ARCHIVAL
+https://github.com/slimsag/ZigAndroidTemplate does everything this fork was meant to do and does it better.
+
 # Android Apps in Zig
 
 ![Project banner](design/logo.png)
